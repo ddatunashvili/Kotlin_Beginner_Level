@@ -1,12 +1,12 @@
 
 
-/*
+/* multiline comment
 ზოგი ცვლადი იცვლება var immutable (var can be reassigned to point at new data)
 ზოგი არ იცვლება val mutable (val can never be reassigned)
 */
 
 
-// variables (auto type)
+// variables (auto type)   one line comment
 var item = "hammer"
 //same as  var item:String = "hammer"
 val fruit = "apple"
